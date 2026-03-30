@@ -34,7 +34,7 @@ width: auto;
 
 .pic {
 display:flex;
-
+Justify-content:space-between;
 }
 h1 {
     color: rgb(40,40, 177);
@@ -59,15 +59,15 @@ h2{
 font-family: "inter";
  color: rgb(40,40, 177);
 position: relative;
-bottom: 70%;
+bottom: 50%;
 }
 .text2 {
 position: relative;
-bottom: 70%;
+bottom: 50%;
 }
 ul .l2 {
     position: relative;
-    bottom: 70%;
+    bottom: 50%;
     font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
   font-weight: 100;
@@ -83,7 +83,7 @@ body {
 }
 .lk2 {
  position: relative;
-    bottom: 70%;
+    bottom: 50%;
 
 }
 
